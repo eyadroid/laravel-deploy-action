@@ -2,7 +2,7 @@ name: Deploy
 
 env:
   # Change to the directory you want to be deployed to
-  DEPLOYMENT_PATH: "/var/repos/shop-backend"
+  DEPLOYMENT_PATH: "/path/to/dir"
   # Change to the PHP version you use
   PHP_VERSION: "8.1"
 
